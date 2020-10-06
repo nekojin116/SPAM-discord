@@ -1,6 +1,6 @@
 const Discord = require("discord.js");
-const myid = ['762738292058751016'];// ID Your account
-const prefix = ['14']
+const myid = [''];// ID Your account
+const prefix = ['']
 
 const client = new Discord.Client();
 const client2 = new Discord.Client();
@@ -12,17 +12,17 @@ const client6 = new Discord.Client();
   const client50 = new Discord.Client();
 const prefixx50 = ['prefix bot help spam'];/// دا برفاكس بوت الهيلم بتاع الاسبام
 
-client50.login("NzYyNzM4MjkyMDU4NzUxMDE2.X3xKwg.eWPfUCYlxtD7K3xThU9wlhXdSF0");// هنا توكين بوتك دسكورد مش حساب الهيلب بتاع الاسبام
+client50.login("");// هنا توكين بوتك دسكورد مش حساب الهيلب بتاع الاسبام
 //!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 
-client.login("NzYyNzM4MjkyMDU4NzUxMDE2.X3xKwg.eWPfUCYlxtD7K3xThU9wlhXdSF0");// 1 token bot
+client.login("");// 1 token bot
 
-client2.login("NzYzMDIyMzU3MDAyMDU5Nzg2.X3xqRw.IJ_f-zkyZUgm6Y1hzzkyGN4r0p0");// 2 token bot
+client2.login("");// 2 token bot
 
-client3.login("NzYzMDIwNjYzMzgzMzkyMjU2.X3xpLg.5NB1zirn1LRhUpOVVtTiqMP7Qd4");// 3 token bot
+client3.login("");// 3 token bot
 
-client4.login("zYzMDIxOTM5NjE0Njc5MDYz.X3xpsQ.-DguENuh8cx_C3Ga_5-0ysM8R6U");// 4 token bot
+client4.login("");// 4 token bot
 
 client5.login("");// 5 token bot
 
